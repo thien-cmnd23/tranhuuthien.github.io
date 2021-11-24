@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        p {
+            text-align: center;
+        }
+
+        header {
+            background-color: Darkviolet;
+            border: 5px solid black;
+        }
+
+        section {
+            background-color: Purple;
+            border: 5px solid green;
+        }
+
+        footer {
+            background-color: chartreuse;
+            border: 5px solid blue;
+        }
+
+        header h1 {
+            text-align: center;
+        }
+
+        footer h1 {
+            text-align: center;
+        }
+
+        #vung1 {
+            background-color: Orange;
+        }
+
+        #vung2 {
+            background-color: LightYellow;
+        }
+
+        #vung3 {
+            background-color: cornsilk;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <h1 style="text-align: right;">Day la Header</h1>
+    </header>
+    <section>
+        <div id="vung1">
+            <h1 style="color:blueviolet;">Tieu de vung 1 </h1>
+            <p>
+                Doan van ban 1
+            </p>
+            <p>
+                Doan van ban 2
+            </p>
+        </div>
+        <div id="vung2">
+            <h1 style="color:blueviolet;">Tieu de vung 2 </h1>
+            <p>
+                Doan van ban 3
+            </p>
+            <p>
+                Doan van ban 4
+            </p>
+        </div>
+        <div id="vung3">
+            <h1 style="color:blueviolet;">Tieu de vung 3 </h1>
+            <p>
+                Doan van ban 4
+            </p>
+            <p>
+                Doan van ban 5
+            </p>
+        </div>
+
+
+
+    </section>
+    <footer>
+        <h1>Day la Footer</h1>
+    </footer>
+
+
+</body>
+
+</html>
