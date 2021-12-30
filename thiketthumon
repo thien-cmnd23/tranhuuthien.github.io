@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>thiet ke website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+    <header>
+        <a href="#"><img src="img/logo.png" alt=""></a>
+        
+    </header>
+
+    <nav>
+        <div class="menu">
+            <ul>
+                <li><a href="#">Trang Chủ </a></li>
+                <li><a href="#"></a>Đào Tạo</li>
+                <li><a href="#"></a> Hoạt Động Sinh </li>
+                <li><a href="#"></a>Tuyển Sinh </li>
+                <li><a href="#"></a>Liên Hệ </li>
+            </ul>
+        </div>
+        <div class="search">
+            <input type="search" placeholder="search...">
+            <button>Tim Kiem</button>
+            
+        </div>
+    </nav>
+
+    <div id="slide">
+        <a href=""><img src="https://xettuyenonline.bdu.edu.vn/images/bn.jpg" alt="Trang tuyển sinh đại học Bình Dương" jsname="HiaYvf" jsaction="load:XAeZkd;" class="n3VNCb" data-noaft="1" style="width: 433px; height: 128.716px; margin: 18.592px 0px;">"></a>
+        
+    </div>
+
+    <article>
+        <h3>Tin Tức Học Tập </h3>
+        <div class="new_list">
+            <div class="new_item">
+                <h4>Hơn 300 suất học bổng “Phát triển tài năng” và “Vượt khó” dành cho tân sinh viên năm học 2021-2022.</h4>
+               <img data-image-id="2871122" src="https://photo-cms-tpo.zadn.vn/w645/Uploaded/2021/pcgycivo/2021_08_28/h2-3-9162.jpg" data-width="5472" data-height="3648" class="cms-photo lazyloaded" data-src="https://photo-cms-tpo.zadn.vn/w645/Uploaded/2021/pcgycivo/2021_08_28/h2-3-9162.jpg" alt="Đại học Thái Bình Dương tặng học bổng, giảm học phí hỗ trợ tân sinh viên ảnh 2" cms-photo-caption="Hơn 300 suất học bổng “Phát triển tài năng” và “Vượt khó” dành cho tân sinh viên năm học 2021-2022.">
+               <div class="content">
+                TS. Hoàng Đức Bình - Giám đốc Trung tâm Tuyển sinh & Truyền thông Trường ĐH Thái Bình Dương cho biết, nhà trường giảm 20% học phí dành cho tân sinh viên khóa 2021 ở tất cả các ngành học.
+
+                Đặc biệt, nhà trường còn có học bổng Vượt khó Covid-19 với trị giá 25% học phí của năm học 2021-2022 (sau khi đã giảm 20% học phí) dành cho tất cả thí sinh gặp khó khăn do dịch bệnh với thủ tục rất đơn giản. Bên cạnh đó, Trường ĐH Thái Bình Dương ưu đãi miễn lệ phí nhập học hoặc 6 tháng ở ký túc xá cho tân sinh viên nhập học trước 30/9/2021. Như vậy, tổng số tiền tân sinh viên nhập học trong đợt này được giảm lên đến 45%.
+            </div>
+        </div>
+        <div class="new_list">
+            <div class="new_item">
+                <h4>TS Chris – giảng viên khoa Công nghệ thông tin nói về “Trí thông minh cảm xúc” (EQ) tại buổi sinh hoạt thường niên của IT English Club TBD.</h4>
+                <img data-image-id="2871125" src="https://photo-cms-tpo.zadn.vn/w645/Uploaded/2021/pcgycivo/2021_08_28/h5-575.jpg" data-width="5472" data-height="3648" class="cms-photo lazyloaded" data-src="https://photo-cms-tpo.zadn.vn/w645/Uploaded/2021/pcgycivo/2021_08_28/h5-575.jpg" alt="Đại học Thái Bình Dương tặng học bổng, giảm học phí hỗ trợ tân sinh viên ảnh 5" cms-photo-caption="TS Chris – giảng viên khoa Công nghệ thông tin nói về “Trí thông minh cảm xúc” (EQ) tại buổi sinh hoạt thường niên của IT English Club TBD.">
+            <div class="content">
+                Cũng theo TS. Hoàng Đức Bình, không chỉ riêng tân sinh viên, mà sinh viên các khóa còn lại nếu gặp khó khăn về tài chính, nhà trường sẽ cho linh động giãn đóng học phí.
+
+                Bên cạnh các gói hỗ trợ tài chính vì ảnh hưởng dịch Covid-19, được biết, trong đợt tuyển sinh năm nay, ĐH Thái Bình Dương dành 200 suất học bổng “Phát triển tài năng” và 100 suất học bổng “Vượt khó” với tổng giá trị hơn 13 tỉ đồng. Được biết, mỗi suất học bổng trị giá 100%, 75%, 50% học phí toàn khóa học dành cho sinh viên trúng tuyển với kết quả học tập từ 7.0 trở lên, sở hữu thành tích cá nhân ấn tượng. Và với kết quả từ 6.0 trở lên cộng với sở hữu thành tích cá nhân tốt, tân sinh viên có cơ hội nhận học bổng “Vượt khó”.
+
+            
+        </div>
+    </div>
+    <div class="new_list">
+        <div class="new_item" id="">
+            <h4>Để phục vụ chương trình học trực tuyến, nhà trường hỗ trợ phương tiện học tập cho tất cả các tân sinh viên bằng việc cho tạm ứng 10.000.000 đồng mua laptop</h4>
+            <img src="https://tuoitrethudo.com.vn/stores/news_dataimages/nguyenvanphap/092021/13/08/1058_YYi_hYc_Thai_Binh_DYYng_3.jpg?rt=20210913081208" class="__img_mastercms mastercms_lazyload" alt="để phục vụ chương trình học trực tuyến, nhà trường hỗ trợ phương tiện học tập cho tất cả các tân sinh viên bằng việc cho tạm ứng 10.000.000 đồng mua laptop  (Ảnh minh họa)" style="max-width: 100%; padding: 0px; margin: 0px; width: 100%;" title="để phục vụ chương trình học trực tuyến, nhà trường hỗ trợ phương tiện học tập cho tất cả các tân sinh viên bằng việc cho tạm ứng 10.000.000 đồng mua laptop  (Ảnh minh họa)">
+            <div class="content">
+            Bên cạnh chính sách hỗ trợ thiết bị học tập, Trường Đại học Thái Bình Dương vẫn duy trì các chính sách như giảm 45% học phí năm nhất và 25% học phí trong các năm còn lại mà không cần điều kiện duy trì. Đồng thời, miễn lệ phí nhập học hoặc 6 tháng ở ký túc xá cho tân sinh viên nhập học trước 30/9/2021.
+
+            Trong đợt tuyển sinh năm nay, Đại học Thái Bình Dương còn dành 200 suất học bổng “Phát triển tài năng” và 100 suất học bổng “Vượt khó” với tổng giá trị hơn 13 tỉ đồng. Theo đó, mỗi suất học bổng trị giá 100%, 75%, 50% học phí toàn khóa học dành cho sinh viên trúng tuyển với kết quả học tập từ 7.0 trở lên, sở hữu thành tích cá nhân ấn tượng. Và với kết quả từ 6.0 trở lên cộng với sở hữu thành tích cá nhân tốt, tân sinh viên có cơ hội nhận học bổng “Vượt khó”.
+
+            Bên cạnh chính sách giảm học phí - tăng học bổng vì dịch Covid-19, Đại học Thái Bình Dương còn áp dụng chính sách giãn đóng học phí cho tất cả sinh viên trong năm học 2021 -2022. Đồng thời, cam kết không tăng học phí trong suốt khoá học.
+        </div>
+    </div>
+        
+    </article>
+    <article>
+     <h3> Hoạt Động Của Sinh Viên </h3>
+     <div class="new_list">
+        <div class="new_item">
+            <h4>Thư viện Trường Đại học Thái Bình Dương hướng đến là một trung tâm tài nguyên đa phương tiện thân thiện với bạn đọc trong môi trường học thuật khai phóng. Nhằm tạo môi trường học tập thoải mái phù hợp với phương châm Học là vui của nhà trường, thư viện còn là một địa điểm thân thuộc, nơi bạn đọc có thể đến học nhóm hay giải trí sau những giờ học căng thẳng.</h4>
+            <img data-opt-src="https://mlibdu8pglyw.i.optimole.com/aW_zu08-3T2TqvJb/w:auto/h:auto/q:75/https://tbd.edu.vn/wp-content/themes/pou/assets/imgs/library.jpg" src="https://mlibdu8pglyw.i.optimole.com/aW_zu08-3T2TqvJb/w:350/h:230/q:75/dpr:1.5/https://tbd.edu.vn/wp-content/themes/pou/assets/imgs/library.jpg" class="radius10" data-opt-lazy-loaded="true" data-opt-otimized-width="350" data-opt-optimized-height="230" style="max-width: 350px;">
+            
+        </div>
+    
+    </article>
+
+    <footer>
+
+        TRẦN HỮU THIỆN 
+    </footer>
+    
+</body>
+</html>
